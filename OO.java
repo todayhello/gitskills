@@ -10,6 +10,7 @@ public class OO {
 	public String method1(){
 		System.out.println(1);
 		System.out.println(11);
+		System.out.println(111);
 	}
 	
 	public String method2(){
