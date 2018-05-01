@@ -18,5 +18,6 @@ public class OO {
 		System.out.println(2);
 		System.out.println(22);
 		System.out.println(222);
+		System.out.println(2222);
 	}
 }
