@@ -9,6 +9,7 @@ public class OO {
 	
 	public String method1(){
 		System.out.println(1);
+		System.out.println(11);
 	}
 	
 	public String method2(){
