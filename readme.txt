@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 3
 4
 5
+6
