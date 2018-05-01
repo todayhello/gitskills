@@ -15,5 +15,6 @@ public class OO {
 	public String method2(){
 		System.out.println(2);
 		System.out.println(22);
+		System.out.println(222);
 	}
 }
